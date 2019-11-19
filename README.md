@@ -3,7 +3,7 @@
 Projeto para a disciplina de Tecnologias Web. 
 Ministrado pelo Professor Carlos Barbosa Filho.  
 
-Aluno: Ewerton Lourenço de Souza,  
+Aluno: Ewerton Lourenço de Souza  
 
 Para a criação desse projeto, ultilizei um template Bootstrap admin, que fui modificado utilizando as seguintes
 tecnologias/ferramentas abaixo:   
